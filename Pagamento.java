@@ -6,7 +6,7 @@ public class Pagamento {
     private String metodoPagamento; 
     private String status;
 
-    // Construtor
+    
     public Pagamento(String idTransacao, double valor, String metodoPagamento) {
         this.idTransacao = idTransacao;
         this.valor = valor;
