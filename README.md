@@ -2,6 +2,6 @@ Entrega 25/05/2026
 
 Integrantes:
 - Vinicius Silva de Barros - 2510100998
-- a
+- João Vitor Carvalho Guedes- 2510102115
 - a
 - a 
